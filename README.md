@@ -1,4 +1,4 @@
-Greetings, fellow data enthusiasts! I’m Imad Lakbabti, an engineering student deeply immersed in the realms of data science at INSEA, Rabat. My passion lies in dissecting complex problems and weaving elegant solutions through data analysis and machine learning.
+Greetings, fellow data enthusiasts! I’m Imad Lakbabti, a data engineer deeply immersed in the realms of data engineering. My passion lies in dissecting complex problems and weaving elegant solutions through data analysis and machine learning and web crawling.
 
 With a robust toolkit that includes Python, R, and Go, and proficiency in libraries such as TensorFlow, Keras, and PyTorch, I have honed my skills in both supervised and unsupervised learning. My experience spans various projects, from crafting efficient data scrapers with BeautifulSoup and Selenium to developing sophisticated machine learning models.
 
